@@ -1,0 +1,98 @@
+core java
+lesson 1
+jdk and jvm
+which is pltform inde and which is indep?
+
+lesson 1 6 page
+class loader, security manager
+
+
+lesson 01 9 page
+java c and java commnad doing
+how can we pass arguement
+
+page 12
+jit and jvm
+jdk n jre
+
+java fundamnetals
+diff  keyword in java
+ex-is instance of is the keyword.. yes or no?
+
+diff between premitive and ref varibale
+
+package questions
+diff b/w import com.cg.star and
+com.cg.a
+
+
+chap 4 pg 14
+diff between private public n protected
+code will be given
+
+garbage collector
+what is meaning of sytem.gc
+by using which method we can import garbage method
+which method is called before gc
+
+what is staic variable
+what is static method
+static blog
+
+
+page num 7 chap 5
+implicit  n explicit  casting
+down casting or upcasting
+
+what r method of object class
+
+page 18 chp 5
+what is diff b/w .equal n double equals
+
+
+chp 6 
+abstrc clss
+interfce
+
+overloading n overwriting
+final modifier
+
+chp 9
+chekced n unchecked exception
+
+
+thhowable is superclss for both eception n error
+
+page 11 chp 10
+
+whta is arrays class
+all the method os arrays class r static
+
+page 6 chp 11
+list,soted set,map
+vector n array lisy
+comparable n comporator
+
+chp 1 to before exception
+total 4
+
+from util n collection
+3 que
+
+file io
+one que
+
+string n lmda- 1 que each
+
+jdbc - 3
+
+exception hndling
+2
+
+
+multithreading
+one que
+
+junit n log4j
+one que each
+
